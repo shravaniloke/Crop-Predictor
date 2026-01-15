@@ -42,6 +42,6 @@ Programming Language: Python
 <img width="1899" height="872" alt="image" src="https://github.com/user-attachments/assets/7db5adde-703e-4065-8965-2d1be8ad55c1" />
 
 
-##🤝 Acknowledgement
+## 🤝 Acknowledgement
 
 This project was built with the help of an online YouTube tutorial playlist and self-learning practice. @ujjwaltajneAlgoChat
