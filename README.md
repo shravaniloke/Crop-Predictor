@@ -1,9 +1,10 @@
-#🌾 Crop Prediction System using Machine Learning & Flask
+# 🌾 Crop Prediction System using Machine Learning & Flask
 
 A Machine Learning–based web application that predicts the **most suitable crop** to grow based on soil and weather conditions.
 This project integrates an ML model with a Flask web framework to provide real-time crop recommendations.
 
-📌 Project Overview
+
+## 📌 Project Overview
 
 Agriculture plays a vital role in our economy, and choosing the right crop is crucial for better yield.
 This project helps farmers and users by predicting the best crop using parameters such as:
@@ -18,11 +19,29 @@ This project helps farmers and users by predicting the best crop using parameter
 
 The trained ML model takes these inputs and predicts the most suitable crop.
 
-🛠️ Tech Stack Used
+
+## 🛠️ Tech Stack Used
 
 Programming Language: Python
 - Machine Learning: Scikit-learn
 - Web Framework: Flask
 - Frontend: HTML, CSS
 - Backend: Flask
+
+
+## 🌐 Web Application Features
+
+- Simple and user-friendly UI
+- Takes real-time input from users
+- Predicts suitable crop instantly
+- Integrated ML model with Flask backend
+
+
+## 📌 Output
+
 <img width="1899" height="872" alt="image" src="https://github.com/user-attachments/assets/7db5adde-703e-4065-8965-2d1be8ad55c1" />
+
+
+##🤝 Acknowledgement
+
+This project was built with the help of an online YouTube tutorial playlist and self-learning practice. @ujjwaltajneAlgoChat
